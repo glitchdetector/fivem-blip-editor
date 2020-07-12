@@ -1,0 +1,41 @@
+.sprite {
+    object-fit: contain;
+    width: 32px;
+    height: 32px;
+    padding: 2px;
+    margin: 2px;
+}
+
+.sprite-selected, .sprite:hover {
+    border: 2px solid red;
+}
+
+#sprites {
+    max-height: 200px;
+    overflow-y: scroll;
+}
+
+.color {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    padding: 2px;
+    margin: 2px;
+}
+
+.color-selected, .color:hover {
+    border: 2px dotted red;
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+}
+
+#colors {
+    max-height: 100px;
+    overflow-y: scroll;
+}
+
+.main {
+    border: 1px solid black;
+    border-radius: 10px;
+}
