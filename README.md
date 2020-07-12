@@ -1,6 +1,9 @@
 # fivem-blip-editor
 A blip editor system for FiveM
 
+## Preview video
+https://www.youtube.com/watch?v=kTSGGHxAulo
+
 ## Note
 This version is not tested on a big scale, the source is made available for people to experiment and preview the system.
 
